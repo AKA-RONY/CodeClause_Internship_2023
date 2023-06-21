@@ -3,7 +3,7 @@
 ## What is a Recommendation System?
 A recommender system is a software program/web-application that consist of complex logics & ML-Algorithms, which understands human behaviour and interest, and based on that it recommends the products or services.\
 **Example**- **Amazon** uses recommendation system for showing products based on user preferences, **Netflix**, **Amazon Prime** suggest movies to watch as recommendation etc.
-## Types of Recommmendation System
+## Types of Recommendation System
  **Content Based Filtering**:
 - Content-based filtering recommends items to users based on the characteristics and properties of the items themselves.
 - It analyzes the content features or attributes of the items, such as genre, actors, directors, or plot keywords, and compares them to the user's preferences.
