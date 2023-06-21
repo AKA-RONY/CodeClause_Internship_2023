@@ -1,5 +1,5 @@
 
-# 2Ez: Movie Recommmendation System 
+# 2Ez: Movie Recommendation System 
 ## What is a Recommendation System?
 A recommender system is a software program/web-application that consist of complex logics & ML-Algorithms, which understands human behaviour and interest, and based on that it recommends the products or services.\
 **Example**- **Amazon** uses recommendation system for showing products based on user preferences, **Netflix**, **Amazon Prime** suggest movies to watch as recommendation etc.
