@@ -5,15 +5,15 @@ Three classification algorithms, namely **Logistic Regression**, **Decision Tree
 
 ## The project followed the following steps:
 
-- Data Collection: The dataset was obtained from Kaggle, which provided a pre-processed version of the Breast Cancer Wisconsin dataset. The dataset consisted of features such as radius, texture, perimeter, area, smoothness, compactness, concavity, symmetry, and fractal dimension.
+- **Data Collection**: The dataset was obtained from Kaggle, which provided a pre-processed version of the Breast Cancer Wisconsin dataset. The dataset consisted of features such as radius, texture, perimeter, area, smoothness, compactness, concavity, symmetry, and fractal dimension.
 
-- Data Preprocessing: The dataset was examined for missing values, outliers, and any necessary data transformations. It was ensured that the data was in the correct format for model training.
+- **Data Preprocessing**: The dataset was examined for missing values, outliers, and any necessary data transformations. It was ensured that the data was in the correct format for model training.
 
-- Model Training: Logistic Regression, Decision Tree, and Random Forest models were trained using the preprocessed dataset. Each model was fitted on the training data and learned the patterns and relationships between the features and the target variable.
+- **Model Training**: Logistic Regression, Decision Tree, and Random Forest models were trained using the preprocessed dataset. Each model was fitted on the training data and learned the patterns and relationships between the features and the target variable.
 
-- Model Evaluation: The trained models were evaluated using appropriate evaluation metrics. The performance of each model was assessed to determine its effectiveness in predicting breast cancer.
+- **Model Evaluation**: The trained models were evaluated using appropriate evaluation metrics. The performance of each model was assessed to determine its effectiveness in predicting breast cancer.
 
-- Comparison and Selection of Best Model: After evaluating the models, it was observed that the Random Forest algorithm outperformed the Logistic Regression and Decision Tree models in terms of accuracy and other evaluation metrics. Therefore, the Random Forest model was chosen as the best model for breast cancer prediction in this project.
+- **Comparison and Selection of Best Model**: After evaluating the models, it was observed that the Random Forest algorithm outperformed the Logistic Regression and Decision Tree models in terms of accuracy and other evaluation metrics. Therefore, the Random Forest model was chosen as the best model for breast cancer prediction in this project.
 
 ## Conclusion:
-this project aimed to predict breast cancer using classification models. After evaluating the performance of Logistic Regression, Decision Tree, and Random Forest algorithms, the Random Forest model was found to provide the best results. The project highlights the importance of feature selection, model training, and evaluation in the context of breast cancer prediction. The chosen model can be further utilized for future predictions and potential clinical applications.
+This project aimed to predict breast cancer using classification models. After evaluating the performance of Logistic Regression, Decision Tree, and Random Forest algorithms, the Random Forest model was found to provide the best results. The project highlights the importance of feature selection, model training, and evaluation in the context of breast cancer prediction. The chosen model can be further utilized for future predictions and potential clinical applications.
