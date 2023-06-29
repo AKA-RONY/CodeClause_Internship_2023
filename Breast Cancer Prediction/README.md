@@ -11,7 +11,7 @@ Three classification algorithms, namely **Logistic Regression**, **Decision Tree
 
 - **Model Training**: Logistic Regression, Decision Tree, and Random Forest models were trained using the preprocessed dataset. Each model was fitted on the training data and learned the patterns and relationships between the features and the target variable.
 
-- **Model Evaluation**: The trained models were evaluated using appropriate evaluation metrics. The performance of each model was assessed to determine its effectiveness in predicting breast cancer.
+- **Model Evaluation**: The trained models were evaluated using appropriate evaluation metrics such as accuracy, precision, recall, and F1-score. The performance of each model was assessed to determine its effectiveness in predicting breast cancer.
 
 - **Comparison and Selection of Best Model**: After evaluating the models, it was observed that the Random Forest algorithm outperformed the Logistic Regression and Decision Tree models in terms of accuracy and other evaluation metrics. Therefore, the Random Forest model was chosen as the best model for breast cancer prediction in this project.
 
